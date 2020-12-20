@@ -110,3 +110,7 @@ ziparchive= ZipFile(parsed_args.ziparchive)
 # Replace <brutefile.py> with the program name, <zipfile.py> with the target and <passwordfile.txt> with the list of passwords 
 # -z and -p are arguments for ZipFile()
 ```
+
+## Contributing
+
+Pull requests are welcome and encouraged. As this repository is for scripting and ethical hacking beginners, please explore further and improve the functionalities of these scripts as desired. Try writing new scripts for automating other penetration testing tasks as well.
