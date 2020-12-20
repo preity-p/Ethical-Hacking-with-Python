@@ -1,1 +1,0 @@
-Pull requests are welcome and encouraged. As this repository is for scripting and ethical hacking beginners, please explore further and improve the functionalities of these scripts as desired. Try writing new scripts for automating other penetration testing tasks as well.
